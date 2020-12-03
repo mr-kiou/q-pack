@@ -1,6 +1,8 @@
 # Q pack MK2.1
 Open-source version of the proton pack from Ghostbusters.
 
+![Image of the proton pack](https://github.com/mr-kiou/q-pack/blob/master/protonpack_screenshoot.jpg)
+
 You can find the premade STL as well as the opensource .step file.
 Our goal is to make the best easy to use 3D printable version of the proton pack from ghostbusters and ghostbusters 2.
 you can use the full project or parts of it.
