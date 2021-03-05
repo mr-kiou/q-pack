@@ -3,7 +3,7 @@ Open-source version of the proton pack from Ghostbusters.
 
 ![Image of the proton pack](https://github.com/mr-kiou/q-pack/blob/master/protonpack_screenshoot.jpg)
 
-You can find the premade STL as well as the opensource .step file.
+You can find the premade STL as well as most of the opensource .step file.
 Our goal is to make the best easy to use 3D printable version of the proton pack from ghostbusters and ghostbusters 2.
 you can use the full project or parts of it.
 I took the time and effort to make almost everything needed to build one. (shell, legris , banjos, clippards, brackets, ...)
@@ -12,12 +12,25 @@ I took the time and effort to make almost everything needed to build one. (shell
 they are made for 3D printing, so some little modifications are expected but it should be a pretty good representation of the Proton pack.
 
 
-List of options include: different hero pack variations ( Venkman and Spengler ) as well as stunt version.
+List of options include: different hero pack variations as well as stunt version.
 
+## Official facebook group
+If you have any question or need more informations for the assembly, you can go to our official FB group
 
-TO DO: Documentation for assembly and variations listing.
-        Detailed plans.
- 
+https://www.facebook.com/groups/3DprintedGBprops
+
+        
+## Awesome remix BY Marc Carabelli
+Ghostbusters Wand with Pop & Twist MK2.1 PVC or Metal
+
+https://www.thingiverse.com/thing:4770700
+
+Ghostbusters MK2.1 Full Cyclotron without N-Filter SET
+
+https://www.thingiverse.com/thing:4770667
+
+## Support the project
+
 This project if totally free but, if you like my work and want to contribute to the project, you can also make donation to
 https://paypal.me/quentinmachiels
         
