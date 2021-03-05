@@ -14,8 +14,13 @@ they are made for 3D printing, so some little modifications are expected but it 
 
 List of options include: different hero pack variations as well as stunt version.
 
+## Official facebook group
+If you have any question or need more informations for the assembly, you can go to our official FB group
+
+https://www.facebook.com/groups/3DprintedGBprops
+
         
-## AWESOME REMIX BY Marc Carabelli
+## Awesome remix BY Marc Carabelli
 Ghostbusters Wand with Pop & Twist MK2.1 PVC or Metal
 
 https://www.thingiverse.com/thing:4770700
