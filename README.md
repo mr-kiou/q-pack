@@ -15,7 +15,7 @@ they are made for 3D printing, so some little modifications are expected but it 
 List of options include: different hero pack variations as well as stunt version.
 
         
-# AWESOME REMIX BY Marc Carabelli
+## AWESOME REMIX BY Marc Carabelli
 Ghostbusters Wand with Pop & Twist MK2.1 PVC or Metal
 
 https://www.thingiverse.com/thing:4770700
