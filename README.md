@@ -20,14 +20,18 @@ If you have any question or need more informations for the assembly, you can go 
 https://www.facebook.com/groups/3DprintedGBprops
 
         
-## Awesome remix BY Marc Carabelli
-Ghostbusters Wand with Pop & Twist MK2.1 PVC or Metal
+## Awesome remix
+Ghostbusters Wand with Pop & Twist MK2.1 PVC or Metal by Marc Carabelli
 
 https://www.thingiverse.com/thing:4770700
 
-Ghostbusters MK2.1 Full Cyclotron without N-Filter SET
+Ghostbusters MK2.1 Full Cyclotron without N-Filter SET by Marc Carabelli
 
 https://www.thingiverse.com/thing:4770667
+
+Mount Kit for the motherboard by Patrick Hummel
+
+https://www.thingiverse.com/thing:4795329
 
 ## Support the project
 
