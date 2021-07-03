@@ -1,4 +1,5 @@
-# Q pack MK3 - preversion
+# Q pack MK3 - Work in progress
+# Warning this version is subject to a lot of changes
 Open-source version of the proton pack from Ghostbusters.
 
 ![Image of the proton pack](https://github.com/mr-kiou/q-pack/blob/master/protonpack_screenshoot.jpg)
