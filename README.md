@@ -1,19 +1,25 @@
-# Q pack MK3 - Work in progress
-# Warning this version is subject to a lot of changes
+# Q pack MK3
+
 Open-source version of the proton pack from Ghostbusters.
 
 ![Image of the proton pack](https://github.com/mr-kiou/q-pack/blob/master/protonpack_screenshoot.jpg)
 
-You can find the premade STL as well as most of the opensource .step file.
-Our goal is to make the best, easy to use 3D printable version of the proton pack from ghostbusters and ghostbusters 2.
-You can use the full project or parts of it.
+In this repository, you can find all the STL files needed to 3D print your own 1:1 Proton pack.
+Our goal is to make the best, easy to use 3D printable version of the proton pack from Ghostbusters, Ghostbusters 2 and Ghostbusters aferlife.
+You can use the full project or parts of it for you build it's very versatile. 
 I took the time and effort to make almost everything needed to build one. (shell, legris , banjos, clippards, brackets, ...)
+Afterlife options are still a work in progress until we have clear shoot of the new movie pack.
 
 
-They are made for 3D printing, so some little modifications are expected but it should be a pretty good representation of an idealized Proton pack.
+They are made for 3D printing, so some very little alterations are expected but it should be a pretty good representation of an idealized Proton pack.
 
 
-List of options include: different hero pack variations as well as stunt version.
+
+## Instructions
+Assembly instruction can be found here :
+
+https://www.etsy.com/shop/LeBazarDuQ?ref=github
+
 
 ## Official facebook group
 If you have any question or need more informations for the assembly, you can go to our official FB group
@@ -21,7 +27,7 @@ If you have any question or need more informations for the assembly, you can go 
 https://www.facebook.com/groups/3DprintedGBprops
 
         
-## Awesome remix
+## Awesome remix compatible with MK3
 Ghostbusters Wand with Pop & Twist MK2.1 PVC or Metal by Marc Carabelli
 
 https://www.thingiverse.com/thing:4770700
@@ -36,7 +42,7 @@ https://www.thingiverse.com/thing:4795329
 
 ## Support the project
 
-This project if totally free but, if you like my work and want to contribute to the project, you can  make donation to
+This project if totally free but, if you like my work and want to contribute to the project, you can make donation to
 https://paypal.me/quentinmachiels
         
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
