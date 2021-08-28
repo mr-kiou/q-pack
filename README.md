@@ -14,6 +14,12 @@ They are made for 3D printing, so some little modifications are expected but it 
 
 List of options include: different hero pack variations as well as stunt version.
 
+## Instructions
+Assembly instruction can be found here :
+
+https://www.etsy.com/shop/LeBazarDuQ?ref=github
+
+
 ## Official facebook group
 If you have any question or need more informations for the assembly, you can go to our official FB group
 
