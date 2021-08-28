@@ -6,12 +6,12 @@ Open-source version of the proton pack from Ghostbusters.
 
 In this repository, you can find all the STL files needed to 3D print your own 1:1 Proton pack.
 Our goal is to make the best, easy to use 3D printable version of the proton pack from Ghostbusters, Ghostbusters 2 and Ghostbusters aferlife.
-You can use the full project or parts of it for you build it's very versatile. 
+You can use the full project or parts of it for your build. It's very versatile. 
 I took the time and effort to make almost everything needed to build one. (shell, legris , banjos, clippards, brackets, ...)
 Afterlife options are still a work in progress until we have clear shoot of the new movie pack.
 
 
-They are made for 3D printing, so some very little alterations are expected but it should be a pretty good representation of an idealized Proton pack.
+They are made for 3D printing, so some very little alterations are expected but it should be a very good representation of an idealized Proton pack.
 
 
 
