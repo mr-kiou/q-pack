@@ -1,0 +1,52 @@
+SHELL/booster/
+	QPack_3.1-Booster_box_eda_01-nohole_phoebe
+	QPack_3.1-Booster_box_eda_full-afterlife
+	QPack_3.1-Booster_box_eda_full-afterlife_phoebe
+
+SHELL/bumper/shockmount_bellows/
+	QPack_3.1-shockm_full_afterlife
+
+SHELL/CYCLOTRON/
+	/non-removable/
+		QPack_3.1-non_removable_cyclotron_01
+		QPack_3.1-non_removable_cyclotron_02
+		QPack_3.1-non_removable_cyclotron_02-nofilter
+		QPack_3.1-non_removable_cyclotron_03
+		QPack_3.1-non_removable_cyclotron_04
+		QPack_3.1-non_removable_cyclotron_HALF_01
+		QPack_3.1-non_removable_cyclotron_HALF_02
+		QPack_3.1-non_removable_cyclotron_HALF_02-nofilter
+		QPack_3.1-non_removable_cyclotron-full
+		QPack_3.1-non_removable_cyclotron-full-nofilter
+		QPack_3.1-non_removable_cyclotron-nfilter
+
+	/workbench/
+		QPack_3.1-workbench_cyclotron_03-OG
+
+SHELL/ION_ARM
+	QPack_3.1-Ion_arm_01-phoebe
+	QPack_3.1-ion_arm_03_phoebe_plate
+	QPack_3.1-ion_arm_03-phoebe_filler
+	QPack_3.1-TacoBelli-Ion_arm_01-phoebe
+	QPack_3.1-TacoBelli-ion_arm_03-phoebe_filler-eda_nohole
+
+SHELL/MOTHERBOARD/
+	QPack_3.1-motherboard-afterlife
+	QPack_3.1-motherboard-afterlife-140mm_spearkerhole_clamp
+	QPack_3.1-motherboard-afterlife-146mm_spearkerhole_clamp
+	QPack_3.1-motherboard-GB1_GB2
+	QPack_3.1-motherboard-GB1_GB2-140mm_spearkerhole_clamp
+	QPack_3.1-motherboard-GB1_GB2-146mm_spearkerhole_clamp
+
+SHELL/SYNCHRONOUS_GENERATOR/
+	QPack_3.1-Synch_Gen_03-GB1-GB2
+	QPack_3.1-Synch_Gen_04_2-GB1_GB2
+	QPack_3.1-Synch_Gen_04-GB1_GB2
+	QPack_3.1-Synch_Gen_HALF_01
+	QPack_3.1-Synch_Gen_HALF_02-GB1-GB2
+	QPack_3.1-Synch_Gen_HALF_02-afterlife
+
+SHELL/TacoBelli-TwoPart_shell
+	QPack_3.1-taco_full_top_shell-GB1_GB2-metal_pattern
+	QPack_3.1-taco_full_lower_shell-GB1_GB2
+	
