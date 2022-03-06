@@ -27,8 +27,6 @@ SHELL/ION_ARM
 	QPack_3.1-Ion_arm_01-phoebe
 	QPack_3.1-ion_arm_03_phoebe_plate
 	QPack_3.1-ion_arm_03-phoebe_filler
-	QPack_3.1-TacoBelli-Ion_arm_01-phoebe
-	QPack_3.1-TacoBelli-ion_arm_03-phoebe_filler-eda_nohole
 
 SHELL/MOTHERBOARD/
 	QPack_3.1-motherboard-afterlife
