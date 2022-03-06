@@ -1,4 +1,4 @@
-# Q pack MK3
+# Q pack MK3.1
 
 Open-source version of the proton pack from Ghostbusters.
 
