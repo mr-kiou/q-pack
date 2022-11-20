@@ -1,4 +1,4 @@
-# Q pack MK3.1
+# Q pack MK3.1 - AFTER LIFE EDITION - Still NOT final
 
 Open-source version of the proton pack from Ghostbusters.
 
