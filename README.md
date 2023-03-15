@@ -2,7 +2,7 @@
 
 Open-source version of the proton pack from Ghostbusters.
 
-![Image of the proton pack](https://github.com/mr-kiou/q-pack/blob/MK2.1/protonpack_screenshoot.jpg)
+![Image of the proton pack](https://github.com/mr-kiou/q-pack/blob/MK4/QPack_MK4.JPG)
 
 In this repository, you can find all the STL files needed to 3D print your own 1:1 Proton pack.
 Our goal is to make the best, easy to use 3D printable version of the proton pack from Ghostbusters, Ghostbusters 2 and Ghostbusters aferlife.
