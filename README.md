@@ -1,6 +1,6 @@
 # Q-pack MK4 - Tacoshell
 
-Open-source version of the proton pack from Ghostbusters.
+Open-source version of the proton pack from Ghostbusters made by Marc Carabelli (tacobelli) and Quentin Machiels (kiou).
 
 ![Image of the proton pack](https://github.com/mr-kiou/q-pack/blob/MK4/QPack_MK4.JPG)
 
