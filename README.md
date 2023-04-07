@@ -5,10 +5,10 @@ Open-source version of the proton pack from Ghostbusters made by Marc Carabelli 
 ![Image of the proton pack](https://github.com/mr-kiou/q-pack/blob/MK4/QPack_MK4.JPG)
 
 In this repository, you can find all the STL files needed to 3D print your own 1:1 Proton pack.
-Our goal is to make the best, easy to use 3D printable version of the proton pack from Ghostbusters, Ghostbusters 2 and Ghostbusters aferlife.
+Our goal is to make the best, easy to use 3D printable version of the proton pack from Ghostbusters, Ghostbusters 2 and Ghostbusters Afterlife.
 You can use the full project or parts of it for your build. It's very versatile. 
 We took the time and effort to make almost everything needed to build one. (shell, legris , banjos, clippards, brackets, ...)
-MK4 use Afterlife pack details as default but you will be able to make any version like previously.
+MK4 uses Afterlife pack details as default but you will be able to make any version like previously.
 MK4 is completely remodeled, it's not compatible with any old version. 
 
 
