@@ -27,6 +27,9 @@ If you have any question or need more informations for the assembly, you can go 
 
 https://www.facebook.com/groups/3DprintedGBprops
 
+
+## How to get all the files in a single ZIP
+![Image of instructions](https://github.com/mr-kiou/q-pack/blob/MK4/how_to_download_all_the_files.jpg)
         
 ## Awesome remix compatible with MK3
 Ghostbusters Wand with Pop & Twist MK2.1 PVC or Metal by Marc Carabelli
