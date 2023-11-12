@@ -1,11 +1,11 @@
-# Q-pack MK4 - Tacoshell
+# Q-pack MK4.1 - is it cold here ?
 
 Open-source version of the proton pack from Ghostbusters made by Marc Carabelli (tacobelli) and Quentin Machiels (kiou).
 
 ![Image of the proton pack](https://github.com/mr-kiou/q-pack/blob/MK4/QPack_MK4.JPG)
 
 In this repository, you can find all the STL files needed to 3D print your own 1:1 Proton pack.
-Our goal is to make the best, easy to use 3D printable version of the proton pack from Ghostbusters, Ghostbusters 2 and Ghostbusters Afterlife.
+Our goal is to make the best, easy to use 3D printable version of the proton pack from Ghostbusters, Ghostbusters 2, Ghostbusters Afterlife and the new Ghostbusters Frozen Empire.
 You can use the full project or parts of it for your build. It's very versatile. 
 We took the time and effort to make almost everything needed to build one. (shell, legris , banjos, clippards, brackets, ...)
 MK4 uses Afterlife pack details as default but you will be able to make any version like previously.
@@ -17,9 +17,9 @@ They are made for 3D printing, so some very little alterations are expected but 
 
 
 ## Instructions
-MK4 Assembly instruction can be found here (soon) :
+MK4 Assembly instruction can be found here :
 
-https://www.etsy.com/shop/LeBazarDuQ?ref=github
+https://www.etsy.com/listing/1554836449/mk4-3d-printed-q-pack-tacoshell-proton
 
 
 ## Official facebook group
